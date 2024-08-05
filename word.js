@@ -1,70 +1,94 @@
-const wordList = [
+const words = [
   {
-    word: "python",
-    hint: "programming language"
+    word: "Invisible",
+    hint: "She don't even know you"
   },
   {
-    word: "piano",
-    hint: "musical instrument"
+    word: "Fearless",
+    hint: "Run your hairs through your hair"
   },
   {
-    word: "head",
-    hint: "part of the body"
+    word: "Fifteen",
+    hint: "Take a deep breath, go"
   },
   {
-    word: "poop",
-    hint: "smelly"
+    word: "Change",
+    hint: "And well sing hulleigyah"
   },
   {
-  word: "hello",
-  hint: "greeting"
+    word: "Untouchable",
+    hint: "Its like a million little stars spelling out your name"
   },
   {
-  word: "pencil",
-  hint: "writing utensil"
+    word: "Superstar",
+    hint: "You smile that beautiful smile"
   },
   {
-    word: "Ipad",
-    hint: "electronic device"
+    word: "Mine",
+    hint: "I can see it now"
   },
   {
-    word: "socks",
-    hint: "clothing"
+    word: "mean",
+    hint: "Well you can take me down"
   },
   {
-    word: "chocolate",
-    hint: "sweet"
+    word: "enchanted",
+    hint: "This was the very first page"
   },
   {
-    word: "chips",
-    hint: "snack"
+    word: "ours",
+    hint: "But this love is "
   },
   {
-    word: "water",
-    hint: "liquid"
+    word: "Superman",
+    hint: "Go save the world, I'll be around"
   },
   {
-    word: "ruler",
-    hint: "measuring tool"
+    word: "timeless",
+    hint: "So even in a different life"
   },
   {
-    word: "car",
-    hint: "automobile"
+    word: "red",
+    hint: "Missing him was dark grey, all alone"
   },
   {
-    word: "earth",
-    hint: "planet"
+    word: "treacherous",
+    hint: "this slope is reckless"
   },
   {
-    word: "supernova",
-    hint: "explosion"
+    word: "ronan",
+    hint: "you were my best four years"
   },
   {
-    word: "qwerty",
-    hint: "keyboard"
+    word: "babe",
+    hint: "Im here on the kitchen floor"
   },
   {
-    word: "sigma",
-    hint: "greek letter"
+    word: "run",
+    hint: "I'll wait for you"
   },
-]
+  {
+    word: "style",
+    hint: "Takes me home"
+  },
+  {
+    word: "clean",
+    hint: "ten months sober"
+  },
+  {
+    word: "delicate",
+    hint: "I pretend your mine all the damn time"
+  },
+  {
+    word: "Gorgeous",
+    hint: "Unless you wanna come along?"
+  },
+  {
+    word: "dress",
+    hint: "carve you name into my bedpost"
+  },
+  {
+    word: "lover",
+    hint: "Can i go where you go?"
+  },
+  
