@@ -1,45 +1,70 @@
 const wordList = [
-    {
-      word: "python",
-      hint: "programming language"
-    },
-    {
-        word: "guitar",
-        hint: "a musical instrument"
-    },
-        word: "avatar",
-        hint: "epic science fiction film"
-    },
-    {
-        word: "gif",
-        hint: "a file format for image"
-    },
-    {
-        word: "mental",
-        hint: "related to the mind"
-    },
-    {
-        word: "map",
-        hint: "diagram represent of an area"
-    },
-    {
-        word: "island",
-        hint: "land surrounded by water"
-    },
-    {
-        word: "hockey",
-        hint: "a famous outdoor game"
-    },
-    {
-        word: "chess",
-        hint: "related to a indoor game"
-    },
-    {
-        word: "viber",
-        hint: "a social media app"
-    },
-    {
-        word: "github",
-        hint: "code hosting platform"
-    },
-    ]
+  {
+    word: "python",
+    hint: "programming language"
+  },
+  {
+    word: "piano",
+    hint: "musical instrument"
+  },
+  {
+    word: "head",
+    hint: "part of the body"
+  },
+  {
+    word: "poop",
+    hint: "smelly"
+  },
+  {
+  word: "hello",
+  hint: "greeting"
+  },
+  {
+  word: "pencil",
+  hint: "writing utensil"
+  },
+  {
+    word: "Ipad",
+    hint: "electronic device"
+  },
+  {
+    word: "socks",
+    hint: "clothing"
+  },
+  {
+    word: "chocolate",
+    hint: "sweet"
+  },
+  {
+    word: "chips",
+    hint: "snack"
+  },
+  {
+    word: "water",
+    hint: "liquid"
+  },
+  {
+    word: "ruler",
+    hint: "measuring tool"
+  },
+  {
+    word: "car",
+    hint: "automobile"
+  },
+  {
+    word: "earth",
+    hint: "planet"
+  },
+  {
+    word: "supernova",
+    hint: "explosion"
+  },
+  {
+    word: "qwerty",
+    hint: "keyboard"
+  },
+  {
+    word: "sigma",
+    hint: "greek letter"
+  },
+]
